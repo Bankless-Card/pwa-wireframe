@@ -1,0 +1,22 @@
+{
+  "name": "pwa-wireframe",
+  "version": "1.0.0",
+  "description": "DEPRECIATED... Wireframe from the Figma Design for Bankless Card",
+  "main": "like_button.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bankless-Card/pwa-wireframe.git"
+  },
+  "author": "tomtraanmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bankless-Card/pwa-wireframe/issues"
+  },
+  "homepage": "https://github.com/Bankless-Card/pwa-wireframe#readme"
+}
